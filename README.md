@@ -1,1 +1,3 @@
-# Keyboard Controlled Drone
+# README #
+
+This project implements a drone control system using the DroneKit library, enabling real-time flight management through keyboard inputs. It allows users to perform essential drone operations such as takeoff, landing, altitude adjustment, and directional movement. The system supports various flight modes, including "GUIDED", "LAND", and "RTL", and provides functionality for arming/disarming the drone. The program calculates precise navigation coordinates and manages the drone’s heading for stable flights. Designed for easy interaction, the system offers a simple yet powerful interface for controlling drones using Python.
